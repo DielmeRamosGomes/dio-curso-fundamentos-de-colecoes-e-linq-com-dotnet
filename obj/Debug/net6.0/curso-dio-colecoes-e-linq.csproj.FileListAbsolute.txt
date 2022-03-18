@@ -1,0 +1,15 @@
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\bin\Debug\net6.0\curso-dio-colecoes-e-linq.exe
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\bin\Debug\net6.0\curso-dio-colecoes-e-linq.deps.json
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\bin\Debug\net6.0\curso-dio-colecoes-e-linq.runtimeconfig.json
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\bin\Debug\net6.0\curso-dio-colecoes-e-linq.dll
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\bin\Debug\net6.0\ref\curso-dio-colecoes-e-linq.dll
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\bin\Debug\net6.0\curso-dio-colecoes-e-linq.pdb
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\obj\Debug\net6.0\curso-dio-colecoes-e-linq.csproj.AssemblyReference.cache
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\obj\Debug\net6.0\curso-dio-colecoes-e-linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\obj\Debug\net6.0\curso-dio-colecoes-e-linq.AssemblyInfoInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\obj\Debug\net6.0\curso-dio-colecoes-e-linq.AssemblyInfo.cs
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\obj\Debug\net6.0\curso-dio-colecoes-e-linq.csproj.CoreCompileInputs.cache
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\obj\Debug\net6.0\curso-dio-colecoes-e-linq.dll
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\obj\Debug\net6.0\ref\curso-dio-colecoes-e-linq.dll
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\obj\Debug\net6.0\curso-dio-colecoes-e-linq.pdb
+D:\Programas no Visual Studio Code\C-Sharp\curso-dio-colecoes-e-linq\obj\Debug\net6.0\curso-dio-colecoes-e-linq.genruntimeconfig.cache
